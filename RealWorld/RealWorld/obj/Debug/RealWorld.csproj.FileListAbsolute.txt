@@ -1,0 +1,6 @@
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\obj\Debug\RealWorld.csprojResolveAssemblyReference.cache
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\bin\Debug\RealWorld.exe.config
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\bin\Debug\RealWorld.exe
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\bin\Debug\RealWorld.pdb
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\obj\Debug\RealWorld.exe
+C:\Users\M3z\Desktop\Documents\2.2_VisualStudioWS\RealWorld\RealWorld\obj\Debug\RealWorld.pdb
